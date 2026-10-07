@@ -1,0 +1,45 @@
+# Local Python and dependency artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Credentials, machine state, backups, diagnostics
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.log
+*.bak
+.backup/
+_backup*/
+_videoeditor_exports.json
+crypto_key_store.dat
+root_meta_info.json
+@AutomationLog.txt
+
+# Generated output and local media (upstream assets remain included)
+output/
+outputs/
+local-media/
+test_run_artifacts/
+cloud_cache/
+scripts/cloud_cache/
+*.dll
+*.exe
+
+# OS/editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+
+# Debug screenshots kept for local verification only
+/_crop*
+/_shot*.png
+/_zoom*.png

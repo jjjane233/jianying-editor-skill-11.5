@@ -1,0 +1,644 @@
+{
+  "material-lib": [
+    {
+      "category_id": 10231,
+      "category_name": "热门",
+      "category_key": "10231"
+    },
+    {
+      "category_id": 5914175,
+      "category_name": "视觉中国",
+      "category_key": "sjzg-test2"
+    },
+    {
+      "category_id": 10236,
+      "category_name": "片头",
+      "category_key": "10236"
+    },
+    {
+      "category_id": 10237,
+      "category_name": "片尾",
+      "category_key": "10237"
+    },
+    {
+      "category_id": 11275,
+      "category_name": "热梗",
+      "category_key": "11275"
+    },
+    {
+      "category_id": 10233,
+      "category_name": "情绪",
+      "category_key": "10233"
+    },
+    {
+      "category_id": 5914882,
+      "category_name": "影视飓风",
+      "category_key": "ysjf01"
+    },
+    {
+      "category_id": 11308,
+      "category_name": "萌宠表情包",
+      "category_key": "11308"
+    },
+    {
+      "category_id": 10628,
+      "category_name": "背景",
+      "category_key": "10628"
+    },
+    {
+      "category_id": 10238,
+      "category_name": "转场",
+      "category_key": "10238"
+    },
+    {
+      "category_id": 10235,
+      "category_name": "故障动画",
+      "category_key": "10235"
+    },
+    {
+      "category_id": 11288,
+      "category_name": "科技",
+      "category_key": "11288"
+    },
+    {
+      "category_id": 10240,
+      "category_name": "空镜",
+      "category_key": "10240"
+    },
+    {
+      "category_id": 10242,
+      "category_name": "氛围",
+      "category_key": "10242"
+    },
+    {
+      "category_id": 10239,
+      "category_name": "绿幕",
+      "category_key": "10239"
+    }
+  ],
+  "sticker": [
+    {
+      "category_id": 2065,
+      "category_name": "入场",
+      "category_key": "ruchang"
+    },
+    {
+      "category_id": 2063,
+      "category_name": "出场",
+      "category_key": "chuchang"
+    },
+    {
+      "category_id": 2064,
+      "category_name": "循环",
+      "category_key": "xunhuan"
+    }
+  ],
+  "filter": [
+    {
+      "category_id": 5914107,
+      "category_name": "🍂秋日",
+      "category_key": "qiuri"
+    },
+    {
+      "category_id": 10494,
+      "category_name": "人像",
+      "category_key": "10494"
+    },
+    {
+      "category_id": 10496,
+      "category_name": "风景",
+      "category_key": "10496"
+    },
+    {
+      "category_id": 10498,
+      "category_name": "美食",
+      "category_key": "10498"
+    },
+    {
+      "category_id": 11200,
+      "category_name": "相机模拟",
+      "category_key": "11200"
+    },
+    {
+      "category_id": 11889,
+      "category_name": "最新",
+      "category_key": "11889"
+    },
+    {
+      "category_id": 10500,
+      "category_name": "夜景",
+      "category_key": "10500"
+    },
+    {
+      "category_id": 10495,
+      "category_name": "影视级",
+      "category_key": "10495"
+    },
+    {
+      "category_id": 10501,
+      "category_name": "户外",
+      "category_key": "10501"
+    },
+    {
+      "category_id": 10504,
+      "category_name": "风格化",
+      "category_key": "10504"
+    },
+    {
+      "category_id": 10503,
+      "category_name": "黑白",
+      "category_key": "10503"
+    },
+    {
+      "category_id": 5914282,
+      "category_name": "高清",
+      "category_key": "gaoqing"
+    },
+    {
+      "category_id": 10497,
+      "category_name": "复古胶片",
+      "category_key": "10497"
+    },
+    {
+      "category_id": 10499,
+      "category_name": "基础",
+      "category_key": "10499"
+    },
+    {
+      "category_id": 10502,
+      "category_name": "室内",
+      "category_key": "10502"
+    }
+  ],
+  "effects2": [
+    {
+      "category_id": 39654,
+      "category_name": "热门",
+      "category_key": "rm"
+    },
+    {
+      "category_id": 5915102,
+      "category_name": "🇨🇳国庆",
+      "category_key": "guoqing"
+    },
+    {
+      "category_id": 5915094,
+      "category_name": "🎑中秋",
+      "category_key": "moon"
+    },
+    {
+      "category_id": 40005,
+      "category_name": "🎞出游",
+      "category_key": "travel"
+    },
+    {
+      "category_id": 7728,
+      "category_name": "基础",
+      "category_key": "basis"
+    },
+    {
+      "category_id": 7730,
+      "category_name": "动感",
+      "category_key": "cool"
+    },
+    {
+      "category_id": 7729,
+      "category_name": "氛围",
+      "category_key": "dream"
+    },
+    {
+      "category_id": 43957,
+      "category_name": "最新",
+      "category_key": "new"
+    },
+    {
+      "category_id": 38510,
+      "category_name": "潮酷",
+      "category_key": "chaoku"
+    },
+    {
+      "category_id": 7735,
+      "category_name": "边框",
+      "category_key": "zoomout"
+    },
+    {
+      "category_id": 5914834,
+      "category_name": " 🧩多屏",
+      "category_key": "duo ping"
+    },
+    {
+      "category_id": 5914631,
+      "category_name": "🔊有声",
+      "category_key": "yousheng"
+    },
+    {
+      "category_id": 39547,
+      "category_name": "光",
+      "category_key": "light"
+    },
+    {
+      "category_id": 21924,
+      "category_name": "爱心",
+      "category_key": "heart"
+    },
+    {
+      "category_id": 5914352,
+      "category_name": "🎵音频",
+      "category_key": "yinpin"
+    },
+    {
+      "category_id": 5913855,
+      "category_name": "创意AI",
+      "category_key": "vimo-picture"
+    },
+    {
+      "category_id": 5913856,
+      "category_name": "运镜",
+      "category_key": "vimo-camera"
+    },
+    {
+      "category_id": 7734,
+      "category_name": "自然",
+      "category_key": "reality"
+    },
+    {
+      "category_id": 39241,
+      "category_name": "金粉",
+      "category_key": "jinfen"
+    },
+    {
+      "category_id": 7731,
+      "category_name": "复古",
+      "category_key": "retro"
+    },
+    {
+      "category_id": 39246,
+      "category_name": "电影",
+      "category_key": "dianying"
+    },
+    {
+      "category_id": 15502,
+      "category_name": "Bling",
+      "category_key": "kira"
+    },
+    {
+      "category_id": 39539,
+      "category_name": "扭曲",
+      "category_key": "niuqu"
+    },
+    {
+      "category_id": 27966,
+      "category_name": "综艺",
+      "category_key": "zongyi"
+    },
+    {
+      "category_id": 7733,
+      "category_name": "分屏",
+      "category_key": "split"
+    },
+    {
+      "category_id": 5914473,
+      "category_name": "🐾宠物",
+      "category_key": "chongwu"
+    },
+    {
+      "category_id": 5913770,
+      "category_name": "投影",
+      "category_key": "shadow"
+    },
+    {
+      "category_id": 5913775,
+      "category_name": "纹理",
+      "category_key": "texture"
+    },
+    {
+      "category_id": 7732,
+      "category_name": "漫画",
+      "category_key": "comic"
+    },
+    {
+      "category_id": 37381,
+      "category_name": "暗黑",
+      "category_key": "halloween"
+    },
+    {
+      "category_id": 39264,
+      "category_name": "DV",
+      "category_key": "dv"
+    }
+  ],
+  "text-template": [
+    {
+      "category_id": 10577,
+      "category_name": "热门",
+      "category_key": "10577"
+    },
+    {
+      "category_id": 11739,
+      "category_name": "最新",
+      "category_key": "11739"
+    },
+    {
+      "category_id": 11896,
+      "category_name": "🥮中秋节",
+      "category_key": "zhongqiu"
+    },
+    {
+      "category_id": 5914045,
+      "category_name": "🇨🇳国庆",
+      "category_key": "guoqing"
+    },
+    {
+      "category_id": 5915096,
+      "category_name": "🐱hajimi",
+      "category_key": "hajimi"
+    },
+    {
+      "category_id": 5914952,
+      "category_name": "🍊水豚噜噜",
+      "category_key": "shuitun"
+    },
+    {
+      "category_id": 5914725,
+      "category_name": "🐶线条小狗",
+      "category_key": "xiantiao"
+    },
+    {
+      "category_id": 10679,
+      "category_name": "综艺情绪",
+      "category_key": "10679"
+    },
+    {
+      "category_id": 5914745,
+      "category_name": "🐰粉红兔子",
+      "category_key": "tuzi"
+    },
+    {
+      "category_id": 10678,
+      "category_name": "🛍️电商",
+      "category_key": "直播带货"
+    },
+    {
+      "category_id": 5914750,
+      "category_name": "🐭奶茶鼠",
+      "category_key": "shu"
+    },
+    {
+      "category_id": 5914498,
+      "category_name": "🍂秋日",
+      "category_key": "qiuri-xin"
+    },
+    {
+      "category_id": 5914414,
+      "category_name": "🍉夏日",
+      "category_key": "xiari"
+    },
+    {
+      "category_id": 5914741,
+      "category_name": "🥕暹罗厘普",
+      "category_key": "lipu"
+    },
+    {
+      "category_id": 10689,
+      "category_name": "片头标题",
+      "category_key": "10689"
+    },
+    {
+      "category_id": 10697,
+      "category_name": "时间地点",
+      "category_key": "10697"
+    },
+    {
+      "category_id": 5914734,
+      "category_name": "📄水印",
+      "category_key": "shuiyin"
+    },
+    {
+      "category_id": 10683,
+      "category_name": "运动",
+      "category_key": "10683"
+    },
+    {
+      "category_id": 10681,
+      "category_name": "✈️旅行",
+      "category_key": "lvxing"
+    },
+    {
+      "category_id": 10686,
+      "category_name": "手写字",
+      "category_key": "10686"
+    },
+    {
+      "category_id": 10688,
+      "category_name": "互动引导",
+      "category_key": "10688"
+    },
+    {
+      "category_id": 5914726,
+      "category_name": "🐻黄油小熊",
+      "category_key": "xiong"
+    },
+    {
+      "category_id": 10682,
+      "category_name": "好物种草",
+      "category_key": "10682"
+    },
+    {
+      "category_id": 10692,
+      "category_name": "美食",
+      "category_key": "10692"
+    },
+    {
+      "category_id": 10701,
+      "category_name": "节日",
+      "category_key": "jieri"
+    },
+    {
+      "category_id": 5914753,
+      "category_name": "🥏小蓝",
+      "category_key": "lan"
+    },
+    {
+      "category_id": 10691,
+      "category_name": "片尾谢幕",
+      "category_key": "10691"
+    },
+    {
+      "category_id": 10694,
+      "category_name": "科技感",
+      "category_key": "10694"
+    },
+    {
+      "category_id": 10695,
+      "category_name": "美妆",
+      "category_key": "10695"
+    },
+    {
+      "category_id": 11789,
+      "category_name": "穿搭",
+      "category_key": "11789"
+    },
+    {
+      "category_id": 5914740,
+      "category_name": "📇人物名片",
+      "category_key": "mingpian"
+    },
+    {
+      "category_id": 11509,
+      "category_name": "复古",
+      "category_key": "fugu"
+    },
+    {
+      "category_id": 10687,
+      "category_name": "简约",
+      "category_key": "10687"
+    },
+    {
+      "category_id": 10684,
+      "category_name": "新闻",
+      "category_key": "10684"
+    },
+    {
+      "category_id": 11137,
+      "category_name": "季节",
+      "category_key": "jijie"
+    },
+    {
+      "category_id": 5914289,
+      "category_name": "哪吒",
+      "category_key": "nazha"
+    },
+    {
+      "category_id": 11326,
+      "category_name": "亲子",
+      "category_key": "11326"
+    },
+    {
+      "category_id": 11762,
+      "category_name": "新中式",
+      "category_key": "xinzhongshi"
+    },
+    {
+      "category_id": 10685,
+      "category_name": "气泡",
+      "category_key": "10685"
+    },
+    {
+      "category_id": 11451,
+      "category_name": "知识",
+      "category_key": "11451"
+    },
+    {
+      "category_id": 10696,
+      "category_name": "标签",
+      "category_key": "10696"
+    },
+    {
+      "category_id": 10698,
+      "category_name": "长文本",
+      "category_key": "wenben"
+    }
+  ],
+  "audio": [
+    {
+      "category_id": 10892,
+      "category_name": "热门",
+      "category_key": "10892"
+    },
+    {
+      "category_id": 5914796,
+      "category_name": "最新",
+      "category_key": "new"
+    },
+    {
+      "category_id": 10899,
+      "category_name": "转场",
+      "category_key": "10899"
+    },
+    {
+      "category_id": 5914402,
+      "category_name": "网感口播🔥",
+      "category_key": "wanggan"
+    },
+    {
+      "category_id": 5914764,
+      "category_name": "热梗语录",
+      "category_key": "regeng"
+    },
+    {
+      "category_id": 10894,
+      "category_name": "笑声",
+      "category_key": "10894"
+    },
+    {
+      "category_id": 5914403,
+      "category_name": "尴尬",
+      "category_key": "ganga"
+    },
+    {
+      "category_id": 5914404,
+      "category_name": "震惊",
+      "category_key": "zhenjing"
+    },
+    {
+      "category_id": 5914405,
+      "category_name": "提示音",
+      "category_key": "tishi"
+    },
+    {
+      "category_id": 5914365,
+      "category_name": "抽象",
+      "category_key": "抽象"
+    },
+    {
+      "category_id": 10895,
+      "category_name": "综艺感",
+      "category_key": "zongyi"
+    },
+    {
+      "category_id": 5914406,
+      "category_name": "知识科普",
+      "category_key": "zhishi"
+    },
+    {
+      "category_id": 10896,
+      "category_name": "机械",
+      "category_key": "10896"
+    },
+    {
+      "category_id": 10897,
+      "category_name": "BGM",
+      "category_key": "10897"
+    },
+    {
+      "category_id": 10901,
+      "category_name": "魔法",
+      "category_key": "10901"
+    },
+    {
+      "category_id": 10902,
+      "category_name": "打斗",
+      "category_key": "10902"
+    },
+    {
+      "category_id": 10903,
+      "category_name": "美食",
+      "category_key": "10903"
+    },
+    {
+      "category_id": 10904,
+      "category_name": "动物",
+      "category_key": "10904"
+    },
+    {
+      "category_id": 10905,
+      "category_name": "环境音",
+      "category_key": "10905"
+    },
+    {
+      "category_id": 10907,
+      "category_name": "悬疑",
+      "category_key": "10907"
+    }
+  ]
+}

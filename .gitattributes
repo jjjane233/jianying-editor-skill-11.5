@@ -1,0 +1,13 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+*.bat text eol=crlf
+*.png binary
+*.jpg binary
+*.mp4 binary
+*.mp3 binary

@@ -1,0 +1,11 @@
+uiautomation==2.0.20
+playwright==1.52.0
+pynput==1.7.7
+pymediainfo==7.0.1
+numpy>=2.0.0
+psutil>=5.9.0
+requests>=2.31.0
+websockets>=12.0
+Pillow>=10.0
+opencv-python>=4.9
+imageio-ffmpeg>=0.5

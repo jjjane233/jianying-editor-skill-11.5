@@ -1,0 +1,15 @@
+{
+  "name": "AI_精确剪辑",
+  "material_dir": "D:/视频素材",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "video": [
+    {"path": "01.mp4", "source_start": 1, "start": 0, "duration": 3},
+    {"path": "02.mp4", "source_start": 2, "start": 3, "duration": 3}
+  ],
+  "audio": [],
+  "text": [
+    {"text": "产品展示", "start": 0, "duration": 3, "size": 9, "x": 0, "y": -0.55}
+  ]
+}
